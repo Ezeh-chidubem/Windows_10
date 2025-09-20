@@ -12,7 +12,7 @@ jobs:
 
 
 
-    runs-on: Linux
+    runs-on: windows-latest
 
 
 
